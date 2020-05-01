@@ -1,0 +1,117 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    margin-right: 0;
+    box-sizing: border-box
+  }
+  .p1{
+    height: 90px;
+    background-color: darkred;
+    border-bottom: 10px solid #ffffff;
+  }
+  .p1 .titulo{
+    
+    font-size: 70px;
+      text-align: center;
+      color: goldenrod;
+      
+  }
+  .p2{
+    height:2450px;
+    width: 300px;
+    background-color: darkred;
+    border-bottom: 5px solid #ffffff;
+  float: left;
+  
+  }
+  .p{
+      color: honeydew;
+  }
+   .p2 .linkparajogos{
+  margin: auto;
+    font-size: 40px;
+      text-align: center;
+  margin: auto;
+color: honeydew;
+  position: relative;
+  left: 50px;
+  }
+  caption{
+    font-size: 25px;
+    color: goldenrod;
+  }
+  table{
+    border: 1px #ffffff;
+    font-size: 20px;
+  }
+         td{
+          border: 1px solid #ffffff;
+          padding: 15px;
+          
+        }
+        tr{
+          border: 1px solid #ffffff;
+           padding: 10px;
+          
+        }
+        th{
+          border: 1px solid #ffffff;
+        padding: 10px;
+        }
+        a{
+            color: goldenrod;
+        }
+        
+        .t1{
+            height:2450px;
+      
+            background-color: rgb(199, 41, 41);
+            border-bottom: 5px solid #ffffff;
+          
+          }
+       .t1 .pagina{
+            font-size: 30px;
+        }
+        h2{
+            font-size: 40px;
+            color: #ffffff;
+        }
+        .t1 .pagina .texto{
+            text-align: justify;
+            font-size: 20px;
+            color: #ffffff;
+            margin-left: 310px;
+            margin-right: 10px;
+        }
+        .imagen1{
+            float: left; 
+           
+        }
+            .imagen2{
+                float: left; 
+              
+               
+           
+            }
+            .imagen3{
+                float: left; 
+           
+            }
+            img{
+                max-width: 700px;
+              
+                margin-left: 100px; 
+            }
+            .imagens{
+                max-width: 700px;
+              
+                margin-left: 50px; 
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .p3{
+                font-size: 20px;
+                height: 60px;
+                background-color: darkred;
+            }

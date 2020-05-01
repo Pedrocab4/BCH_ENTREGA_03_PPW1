@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    margin-right: 0;
+    box-sizing: border-box
+  }
+  .p1{
+    height: 90px;
+    background-color: darkred;
+    border-bottom: 10px solid #ffffff;
+  }
+  
+  .p1 .titulo{
+    
+    font-size: 70px;
+      text-align: center;
+      color: goldenrod;
+      
+  }
+  .p2{
+    height:500px;
+    width: 400px;
+    background-color: darkred;
+    border-bottom: 5px solid #ffffff;
+  float: left;
+  
+  }
+   .p2 .linkparajogos{
+  margin: auto;
+    font-size: 40px;
+      text-align: center;
+  margin: auto;
+  color: #ffffff;
+  position: relative;
+  left: 90px;
+  }
+  caption{
+    font-size: 25px;
+    color: goldenrod;
+  }
+  table{
+    border: 1px #ffffff;
+    font-size: 20px;
+  }
+         td{
+          border: 1px solid #ffffff;
+          padding: 15px;
+          
+        }
+        tr{
+          border: 1px solid #ffffff;
+           padding: 10px;
+          
+        }
+        th{
+          border: 1px solid #ffffff;
+        padding: 10px;
+        }
+        .pintura{
+  background-color: darkred;
+}.t1{
+          height:500px;
+         
+          background-color: rgb(199, 41, 41);
+          border-bottom: 5px solid #ffffff;
+        
+        }
+      .t1 .tabela{
+        color: #ffffff;
+        font-size: 10px;
+        float: left;
+  position: relative;
+  left: 50px;
+  
+  top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .p3{
+        font-size: 20px;
+        height: 60px;
+        background-color: darkred;
+       
+      }  
+  a{
+    color: goldenrod;
+  }
+  strong{
+    color: goldenrod;
+  }
